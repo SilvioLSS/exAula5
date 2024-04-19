@@ -1,0 +1,18 @@
+
+a:link { color: #6633FF; text-decoration: none; }
+a:visited { color: #6633FF; text-decoration: none; }
+a:active { color: #6633FF; text-decoration: none; }
+a:hover { color: #FF3300; text-decoration: underline; }
+
+ul { list-style-type: none; margin-top: 0; margin-bottom: 0; }
+p { margin-top: 0; margin-bottom: 0; }
+
+hr { color: #CCCCCC; width: 75%; margin-top: 0; margin-bottom: 0; }
+
+font { font-family: verdana, arial, helvetica, sans-serif; }
+
+body { background-color: #FFFFFF; }
+
+input { font-family: verdana, arial, helvetica, sans-serif; }
+
+li { font-family: verdana, arial, helvetica, sans-serif; }
